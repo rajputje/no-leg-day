@@ -8,6 +8,6 @@ I worked on a couple of games before this. But I had to stop working on them as 
 So I decided to make a simple game and see it through until completion to get an idea of how much work it takes to make a game.
 
 ## Technologies
-This game was made with the Unity game engine.
-Assets used: Advanced Save System by Hendrick Haidenthaler, Camera Shake FX by LeastSqaures, Dialogue Editor by Runia Dev
+This game was made with the Unity game engine. <br/>
+Assets used: Advanced Save System by Hendrick Haidenthaler, Camera Shake FX by LeastSqaures, Dialogue Editor by Runia Dev.<br/>
 Note: A modified version of Dialogue Editor is being used.
