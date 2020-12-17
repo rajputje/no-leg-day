@@ -11,3 +11,6 @@ So I decided to make a simple game and see it through until completion to get an
 This game was made with the Unity game engine. <br/>
 Assets used: Advanced Save System by Hendrick Haidenthaler, Camera Shake FX by LeastSqaures, Dialogue Editor by Runia Dev.<br/>
 Note: A modified version of Dialogue Editor is being used.
+
+## Launch
+Just clone the repository and open the project with Unity.
