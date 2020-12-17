@@ -1,4 +1,4 @@
-# no-leg-day
+# No Leg Day
 No Leg Day is a physics-based platformer game for android.
 The player only has control of his hands.
 The player can push, pull, hold onto ledges, ropes, etc., to avoid traps, collect coins, and clear the level.
